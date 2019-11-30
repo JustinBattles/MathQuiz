@@ -1,4 +1,4 @@
-//Prof notes: gj, ready for the app store.
+
 
 #include <stdio.h>
 #include <stdlib.h>
